@@ -1,0 +1,1180 @@
+@media screen and (min-width: 1991px) {
+  .input_subscribe {
+    top: 140px;
+  }
+}
+
+@media screen and (max-width: 1537px) {
+  .forms_inner {
+    padding: 15px 40px;
+  }
+  .forms_inner h3 {
+    font-size: 25px;
+    margin-bottom: 17px;
+  }
+  .forms_inner .form-label {
+    font-size: 16px;
+  }
+  .forms_inner input {
+    height: 37px;
+    font-size: 14px;
+  }
+  .forms_inner button {
+    font-size: 17px;
+  }
+  .transformation_modules_content_item{
+    padding-left: 10px;
+    padding-right: 10px;
+    gap: 20px;
+  }
+  .transformation_modules_content_item--img{
+    max-width: 100px;
+    height: 100px;
+  }
+  .transformation_modules_content_item p{
+    font-size: 20px;
+  }
+  .partner-heading span{
+    font-size: 22px;
+  }
+  .partners-list{
+    gap: 80px;
+  }
+  .capabilities-item{
+    margin-bottom: 30px;
+    gap: 30px;
+  }
+  .capabilities-item img{
+    max-width: 40px;
+  }
+  .capabilities-item p{
+    font-size: 20px;
+  }
+  .data-item{
+    padding: 0 80px;
+  }
+  .data-heading{
+    font-size: 25px;
+  }
+  .data-num{
+    font-size: 40px;
+  }
+  .price-plans-display{
+    gap: 30px;
+  }
+  .price-plan-item{
+    padding: 40px 60px;
+  }
+  .price-plan-item .plan-img{
+    max-width: 150px;
+    margin: 0 auto;
+  }
+  .price-plan-item .price-head{
+    font-size: 25px;
+    margin-bottom: 30px;
+  }
+  .price-plan-item ul{
+    font-size: 16px;
+    margin-bottom: 50px;
+  }
+  .why-us{
+    padding: 80px;
+  }
+  .quote-section .quote{
+    max-width: 80px;
+  }
+  .quote-text{
+    max-width: 800px;
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .why-us-item .title{
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .why-us-item .description{
+    font-size: 16px;
+  }
+  .why-us-listing .row{
+    --bs-gutter-y: 30px;
+  }  
+  .play-btn{
+    max-width: 40px;
+  }
+  .image_physician_construct .note{
+    max-width: 250px;
+    padding: 15px;
+  }
+  .image_physician_construct .note img{
+    max-width: 80px;
+  }
+  .image_physician_construct .note .note-text{
+    font-size: 20px;
+  }
+  .system-item{
+    gap: 40px;
+  }
+  .system-item .system-content .heading{
+    font-size: 20px;
+  }
+  .system-item .system-content .sub-text{
+    font-size: 16px;
+  }
+  .collab-platform-card{
+    padding: 60px;
+  }
+  .physician_content h1{
+    font-size: 40px;
+  }
+  .physician_content .staff-text{
+    font-size: 16px;
+  }
+  .collab-platform-card .highlight{
+    font-size: 18px;
+  }
+
+  .complete-suit-section{
+    padding: 250px 180px 100px;
+  }
+  .complete-suit-section .suit-heading{
+    font-size: 40px;
+    max-width: 430px;
+    line-height: 60px;
+  }
+  .complete-suit-section .suit-card{
+    padding: 30px;
+  }
+  .complete-suit-section .suit-card .card-num{
+    font-size: 80px;
+    line-height: 80px;
+  }
+  .complete-suit-section .suit-card .suit-card-heading{
+    font-size: 30px;
+    line-height: 40px;
+    max-width: 300px;
+    margin-bottom: 30px;
+  }
+  .complete-suit-section .suit-card .suit-card-heading::after{
+    width: 140px;
+    height: 5px;
+  }
+  .complete-suit-section .suit-card .suit-card-text{
+    font-size: 21px;
+    margin-bottom: 25px;
+  }
+  .complete-suit-section .suit-card a{
+    font-size: 18px;
+  }
+  .physic_collaboration.blue{
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .recommended-resources-section{
+    padding: 80px 140px;
+  }
+  .resource-card{
+    padding: 20px;
+    margin-top: 30px;
+  }
+  .recommended-resources-section h3{
+    font-size: 25px;
+  }
+  .resource-card .resource-card-body .resource-card-title{
+    line-height: 30px;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .resource-card .resource-card-body .resource-card-sub{
+    font-size: 14px;
+  }
+  .smartphone-mgmt .heading{
+    font-size: 35px;
+    margin-bottom: 20px;
+  }
+  .smartphone-mgmt .sub{
+    font-size: 20px;
+  }
+  .smartphone-mgmt ul li{
+    font-size: 20px;
+  }
+  .solve_challenge h3 {
+    font-size: 25px;
+}
+  .solve-it-item img{
+    margin-bottom: 30px;
+  }
+  .solve-it-item .item-title{
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .solve-it-item .item-sub{
+    font-size: 16px;
+  }
+  .learn-more h1{
+    font-size: 35px;
+    line-height: 50px;
+  }
+  .it-banner-content .highlight{
+    font-size: 18px;
+  }
+  .it-banner-content h3{
+    font-size: 35px;
+  }
+  .it-banner-content .sub-head{
+    font-size: 20px;
+  }
+  .img-content h4{
+    font-size: 37px;
+    margin-bottom: 25px;
+  }
+  .img-content .sub-text{
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  .img-content .icon-text>div{
+    gap: 30px;
+  }
+  .img-content .icon-text>div img{
+    max-width: 40px;
+  }
+  .img-content .icon-text>div .head{
+    font-size: 24px;
+  }
+  .img-content .icon-text>div .desc{
+    font-size: 18px;
+  }
+  .health-mordernization .left-content h4{
+    font-size: 35px;
+    line-height: 50px;
+  }
+  .health-mordernization .left-content p{
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+  }
+  .health-mordernization .right-content .right-head{
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .health-mordernization .right-content p{
+    font-size: 18px;
+  }
+  .health-mordernization .right-content p img{
+    max-width: 30px;
+  }
+  .health-card h4{
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 20px;
+  }
+  .health-card p{
+    font-size: 16px;
+  }
+  .partner-banner h4{
+    font-size: 45px;
+    line-height: 60px;
+  }
+  .partner-banner p{
+    font-size: 18px;
+  }
+  .become-partner .heading{
+    font-size: 22px;
+  }
+  .become-partner .description{
+    font-size: 18px;
+  }
+  .secondary-btn-blue{
+    width: 300px;
+    font-size: 18px;
+  }
+  .secondary-btn-outline{
+    width: 300px;
+    font-size: 18px;
+  }
+  .partner-list{
+    padding: 80px 141px;
+  }
+  .partner-list-display{
+    margin-bottom: 50px;
+  }
+  .partner-list-display .heading{
+    font-size: 25px;
+    margin-bottom: 30px;
+  }
+  .partner-list-display .partner-items .item{
+    width: 270px;
+    height: 270px;
+  }
+  .partner-list-display .partner-items .item .item-desc .company-name{
+    font-size: 18px;
+  }
+  .partner-list-display .partner-items .item .item-desc .company-desc{
+    -webkit-line-clamp: 5;
+    font-size: 14px;
+  }
+  .partner-ship-email .content p{
+    font-size: 30px;
+  }
+  .email{
+    width: 180px;
+    font-size: 18px;
+    height: 50px;
+  }
+  .num{
+    width: 200px;
+    font-size: 18px;
+    height: 50px;
+  }
+  .executive-card .executive-name{
+    margin-bottom: 0;
+    margin-top: 10px;
+  }
+  .executive-row{
+    --bs-gutter-y: 15px;
+  }
+  .quote h4{
+    font-size: 35px;
+    margin-bottom: 20px;
+  }
+  .quote .quote-desc{
+    font-size: 18px;
+  }
+  .quote .name{
+    font-size: 18px;
+  }
+  .testimonials{
+    gap: 40px;
+  }
+  .testimonials .testimonials-img img{
+    max-width: 270px;
+  }
+  .testimonials .desc .highlight{
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .testimonials .desc .text{
+    font-size: 18px;
+  }
+  .service-banner-description a{
+    font-size: 18px;
+  }
+  .enterprise-impl h4{
+    font-size: 35px;
+  }
+  .enterprise-impl .sub-head{
+    font-size: 18px;
+  }
+  .enterprise-impl .data .data-list-display .data-number{
+    font-size: 45px;
+  }
+  .enterprise-impl .data .data-list-display .name{
+    font-size: 20px;
+  }
+  .filter-section select{
+    font-size: 18px;
+    max-width: 200px;
+    padding: 10px;
+  }
+  .latest-tweets h4{
+    font-size: 25px;
+  }
+  .latest-tweets h3{
+    font-size: 35px;
+  }
+  .dark-carousel-section .saying{
+    font-size: 20px;
+  }
+  .dark-carousel-section .name{
+    font-size: 14px;
+  }
+  .dark-carousel-section{
+    height: 400px;
+    padding-top: 150px;
+  }
+  .section-heading{
+    font-size: 25px;
+  }
+  .latest-news .latest-news-head{
+    font-size: 45px;
+    margin-bottom: 30px;
+  }
+  .news-card .date{
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .news-card .title{
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .news-card .desc{
+    font-size: 16px;
+  }
+  .right-news{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+  }
+  .right-news .news-card .date{
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .collab-journey-item{
+    padding: 20px 30px;
+  }
+  .trust h3{
+    font-size: 25px;
+    margin-bottom: 30px;
+  }
+  .contact-item .contact-item-desc .head{
+    font-size: 25px;
+    margin-bottom: 0;
+  }
+  .contact-item .contact-item-desc .desc{
+    font-size: 18px;
+  }
+  .contact-item img{
+    max-width: 30px;
+  }
+  .contact-tabs-section .nav-tabs .nav-link{
+    padding-bottom: 15px;
+    font-size: 20px;
+  }
+  .contact-tabs-section .nav-tabs .nav-link.active{
+    border-bottom: 3px solid #005B98;
+  }
+  .tab-pane .forms_inner{
+    padding: 40px 60px;
+  }
+  .tab-pane .forms_inner input{
+    padding: 20px;
+    font-size: 16px;
+  }
+  .tab-pane .forms_inner textarea{
+    padding: 15px;
+    height: 100px;
+  }
+  .tab-pane .contact-form-left .item h3{
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  .tab-pane .contact-form-left .item .sub-head{
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .tab-pane .contact-form-left .item .desc{
+    font-size: 16px;
+  }
+  .tab-pane .contact-form-left .item .learn-more{
+    color: #FBB422;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .faq-header-img{
+    max-width: 500px;
+  }
+  .faq-accordions h4{
+    font-size: 20px;
+  }
+  .faq-accordions .accordion{
+    max-width: 1050px;
+  }
+  .faq-accordions .accordion .accordion-header button{
+    font-size: 20px;
+  }
+  .faq-accordions .accordion .accordion-body{
+    font-size: 20px;
+  }
+  .faq-accordions .accordion .accordion-header button::after{
+    width: 30px;
+    height: 30px;
+  }
+  .about-collaboration-content h1{
+    font-size: 22px;
+  }
+  .about-collaboration-content p{
+    font-size: 18px;
+    color: #707070;
+  }
+  .about-missions .why-us-item{
+    padding: 25px;
+  }
+  .about-image-section{
+    gap: 50px;
+  }
+  .about-image-section .image-items{
+    max-width: 180px;
+    height: 180px;
+  }
+  .about-banner-content .left-content .assist-text{
+    font-size: 18px;
+  }
+  .about-banner-content .left-content h3{
+    font-size: 35px;
+    line-height: 45px;
+  }
+  .about-banner-content .right-content p{
+    font-size: 18px;
+  }
+  .about-banner-image-list .image-item .overlay-text{
+    font-size: 35px;
+    line-height: 50px;
+  }
+  .physician_content .highlight {
+    font-size: 16px;
+  }
+  .enhance-content h2{
+    font-size: 50px;
+    margin-bottom: 30px;
+    max-width: 500px;
+    line-height: 60px;
+  }
+  .enhance-content p{
+    font-size: 18px;
+  }
+  .clinical-banner-content{
+    padding: 60px;
+    position: relative;
+    top: 30px;
+  }
+  .clinical-banner-content .highlight{
+    color: #FBB422;
+  }
+  .clinical-banner-content h2{
+    line-height: 60px;
+    font-size: 50px;
+  }
+  .clinical-banner-content .sub-text{
+    max-width: 550px;
+    padding-left: 65px;
+    font-size: 18px;
+    left: -60px;
+    margin-bottom: 20px;
+  }
+  .clinical-banner-content a{
+    font-size: 18px;
+  }
+  .message .message-content {
+    margin-bottom: 20px;
+  }
+  .message .message-content h2{
+    font-size: 50px;
+    line-height: 60px;
+  }
+  .message .message-content p{
+    font-size: 18px;
+    margin-bottom: 25px;
+  }
+  .message .message-content a{
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  .input_subscribe {
+    top: 35px;
+  }
+  .transformation_modules_content_item p{
+    font-size: 18px;
+  }
+  .partner-heading span{
+    font-size: 20px;
+  }
+}
+@media screen and (max-width:1366px) {
+  header{
+    padding: 0 100px;
+  }
+  header .logo{
+    max-width: 200px;
+  }
+  .hover_drop_down .custom_active_drop{
+    font-size: 16px;
+    padding: 5px;
+  }
+  .physician_content p{
+    font-size: 18px;
+  }
+  .physician_content h1{
+    font-size: 30px;
+  }
+  .staff_text{
+    font-size: 20px;
+  }
+  .button_ai_physisian button{
+    font-size: 16px;
+
+  }
+  .physics_medic h2{
+    font-size: 30px;
+  }
+  .physics_medic p{
+    font-size: 18px;
+  }
+  .physic_medic_listing P{
+    font-size: 18px;
+  }
+  .image_physician_construct .note .note-text{
+    font-size: 18px;
+  }
+  .complete-suit-section .suit-heading{
+    font-size: 35px;
+  }
+  .orange_line{
+    width: 250px;
+  }
+  .solve_challenge{
+    padding:60px 100px;
+  }
+  .collab-platform-section{
+    padding: 50px 100px;
+  }
+  .collab-platform-card{
+    padding: 30px;
+  }
+  .complete-suit-section{
+    padding: 50px 100px;
+  }
+  .footer{
+    padding: 50px 100px;
+  }
+  .foot_content ul li a{
+    white-space: nowrap;
+  }
+  .foot_content h4{
+    font-size: 18px;
+  }
+  .footer .socials-icon{
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-between;
+  }
+  .footer .socials-icon a{
+    padding: 0 !important;
+  }
+  .physic_collaboration{
+    padding: 0 100px;
+  }
+  .recommended-resources-section{
+    padding: 60px 100px;
+  }
+  .banner-section{
+    padding: 50px 100px;
+  }
+  .sub-banner{
+    padding: 0 100px 50px;
+  }
+  .smartphone-mgmt{
+    padding: 50px 100px;
+  }
+  .learn-more-contents{
+    padding: 50px 100px;
+  }
+  .it-banner-content .highlight{
+    font-size: 16px;
+  }
+  .it-banner-content h3{
+    font-size: 30px;
+  }
+  .it-banner-content .sub-head{
+    font-size: 18px;
+  }
+  .img-content h4{
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .img-content .sub-text{
+    font-size: 16px;
+  }
+  .img-content .icon-text>div .head{
+    font-size: 20px;
+  }
+  .img-content .icon-text>div .desc{
+    font-size: 16px;
+  }
+  .img-content .icon-text>div img{
+    max-width: 30px;
+  }
+  .smartphone-mgmt .heading{
+    font-size: 30px;
+  }
+  .smartphone-mgmt .highlight{
+    font-size: 18px;
+  }
+  .smartphone-mgmt .sub{
+    font-size: 18px;
+  }
+  .smartphone-mgmt ul li{
+    font-size: 18px;
+  }
+  .health-mordernization .left-content h4{
+    font-size: 30px;
+  }
+  .health-mordernization .left-content p{
+    font-size: 16px;
+  }
+  .solve_challenge h3{
+    font-size: 22px;
+  }
+  .service-banner-description{
+    padding-left: 100px;
+  }
+  .service-banner-description .highlight{
+    font-size: 17px;
+  }
+  .enterprise-impl{
+    padding: 50px 100px;
+  }
+  .enterprise-impl h4{
+    font-size: 30px;
+  }
+  .enterprise-impl .sub-head{
+    font-size: 16px;
+  }
+  .enterprise-impl .data .data-list-display .data-number{
+    font-size: 40px;
+  }
+  .enterprise-impl .data .data-list-display .name{
+    font-size: 18px;
+  }
+  .form_contents{
+    margin: 50px 100px;
+  }
+  .quote h4{
+    font-size: 30px;
+  }
+  .quote .quote-desc{
+    font-size: 16px;
+  }
+  .quote .name{
+    font-size: 16px;
+  }
+  .quote{
+    padding: 50px 100px;
+  }
+  .enterprise-impl .data .data-list-display{
+    flex: 1 0 48%;
+    max-width: 100%;
+  }
+  .partner-banner{
+    padding: 50px 100px;
+  }
+  .partner-banner h4{
+    font-size: 40px;
+  }
+  .partner-banner p{
+    font-size: 16px;
+  }
+  .partner-list{
+    padding: 50px 100px;
+  }
+  .filter-section{
+    margin-bottom: 30px;
+  }
+  .filter-section select{
+    font-size: 16px;
+    padding: 5px 10px;
+  }
+  .dark-carousel-section{
+    height: 300px;
+    padding-top: 80px;
+  }
+  .dark-carousel-section .saying{
+    font-size: 18px;
+  }
+  .latest-tweets{
+    padding: 50px 100px 0;
+  }
+  .latest-tweets h4{
+    font-size: 22px;
+  }
+  .latest-tweets h3{
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .faq-header-img{
+    top: 50px;
+  }
+  .faq-accordions .accordion .accordion-header button{
+    font-size: 18px;
+  }
+  .faq-accordions .accordion .accordion-body{
+    font-size: 18px;
+  }
+  .faq-accordions{
+    padding: 50px 100px;
+  }
+  .become-partner{
+    padding: 50px 100px;
+  }
+  .become-partner .heading{
+    font-size: 20px;
+  }
+  .become-partner .description{
+    font-size: 16px;
+  }
+  .secondary-btn-blue , .secondary-btn-outline{
+    width: 250px;
+    font-size: 16px;
+  }
+  .partner-list-display .heading{
+    font-size: 22px;
+  }
+  .partner-list-display .partner-items .item{
+    width: 240px;
+    height: 250px;
+  }
+  .partner-ship-email{
+    padding: 50px 100px;
+  }
+  .partner-ship-email .content p{
+    font-size: 25px;
+  }
+  .email{
+    font-size: 16px;
+    width: 150px;
+  }
+  .num{
+    width: 180px;
+    font-size: 16px;
+  }
+  .executive-card .executive-name{
+    font-size: 18px;
+  }
+  .executive-card{
+    padding: 20px;
+  }
+  .solve-it-item .item-title{
+    font-size: 18px;
+  }
+  .collab-journey-item{
+    padding: 15px 20px;
+  }
+  .trust{
+    padding: 50px 100px;
+  }
+  .trust h3{
+    font-size: 22px;
+  }
+  .contact-item{
+    gap: 25px;
+  }
+  .contact-item .contact-item-desc .head{
+    font-size: 22px;
+  }
+  .contact-item .contact-item-desc .desc{
+    font-size: 16px;
+  }
+  .contact-tabs-section .nav-tabs .nav-link{
+    font-size: 18px;
+  }
+  .latest-news .latest-news-head{
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  .news-card{
+    padding: 25px;
+  }
+  .news-card .date{
+    font-size: 14px;
+  }
+  .news-card .title{
+    font-size: 18px;
+  }
+  .about-banner-content .left-content{
+    padding-left: 100px;
+  }
+  .about-banner-content .left-content h3{
+    font-size: 30px;
+  }
+  .about-banner-content .right-content{
+    padding: 60px 100px 50px 40px;
+  }
+  .about-banner-content{
+    padding: 50px 0;
+  }
+  .about-banner-image-list{
+    padding: 0 100px;
+    margin-top: 40px;
+  }
+  .about-banner-image-list .image-item .overlay-text{
+    font-size: 30px;
+  }
+  .clinical-banner-content{
+    padding: 40px;
+  }
+  .clinical-banner-content .highlight{
+    font-size: 18px;
+    margin-bottom: 6px;
+  }
+  .clinical-banner-content h2{
+    font-size: 40px;
+  }
+  .clinical-banner-content .sub-text{
+    font-size: 16px;
+  }
+  .clinical-banner-content a{
+    font-size: 16px;
+  }
+  .message .message-content{
+    padding: 50px;
+  }
+  .message .message-content h2{
+    font-size: 40px;
+  }
+  .message .message-content p{
+    font-size: 16px;
+  }
+  .message .message-content a{
+    font-size: 16px;
+  }
+  .message img{
+    max-width: 450px;
+  }
+  .enchance{
+    padding: 50px 100px;
+  }
+  .enhance-content h2{
+    font-size: 40px;
+  }
+  .enhance-content p{
+    font-size: 16px;
+  }
+  .enchance img{
+    max-width: 400px;
+  }
+}
+
+@media screen and (max-width:1280px) {
+  header .custom_hover_drop{
+    padding: 0 5px !important;
+  }
+  .dashboard_part{
+    margin-top: 70px;
+    margin-bottom: 70px;
+  }
+  .headings_dash h1{
+    font-size: 20px;
+  }
+  .headings_dash p{
+    font-size: 25px;
+  }
+  .headings_dash span{
+    font-size: 16px;
+  }
+  .dash_contents .inner_dash_content{
+    margin: 0 !important;
+    padding: 0 15px !important;
+  }
+  .dash_contents .image_dasboard{
+    height: 60px;
+  }
+  .dash_contents .image_dasboard img{
+    max-width: 70px;
+    height: auto;
+  }
+  .dash_contents h2{
+    font-size: 18px;
+  }
+  .dash_contents p{
+    font-size: 16px;
+  
+  }
+  .transformation_modules_content_item{
+    height: 100px;
+  }
+  .transformation_modules_content_item--img{
+    max-width: 80px;
+    height: 80px;
+  }
+  .transformation_modules_content_item p{
+    font-size: 16px;
+  }
+  .dash_content_carousel{
+    margin-top: 60px;
+  }
+  .key-capabilities{
+    padding: 60px 141px;
+  }
+  .foot_content{
+    padding: 0 !important;
+  }
+  .foot_content ul li{
+    font-size: 14px;
+  }
+  .foot_content ul li a{
+    white-space: nowrap;
+    font-size: 14px;
+  }
+  .socials p{
+    font-size: 16px;
+  }
+  .price-plan-item{
+    padding: 40px;
+  }
+  .price-plan-item .plan-img{
+    max-width: 125px;
+  }
+  .price-plan-item .price-head{
+    font-size: 22px;
+  }
+  .quote-text{
+    font-size: 16px;
+    max-width: 600px;
+  }
+  .partners-list{
+    gap: 50px;
+  }
+  .partner-list-img{
+    max-width: 130px;
+  }
+  .capabilities-item img{
+    max-width: 35px;
+  }
+  .capabilities-item p{
+    font-size: 18px;
+  }
+  .complete-suit-section .suit-card .card-num{
+    font-size: 60px;
+  }
+  .complete-suit-section .suit-card .suit-card-heading{
+    font-size: 25px;
+  }
+  .complete-suit-section .suit-card .suit-card-text{
+    font-size: 18px;
+  }
+  .complete-suit-section .suit-card a{
+    font-size: 16px;
+  }
+  .why-us-item .title{
+    font-size: 17px;
+  }
+  .image_physician_construct{
+    height: auto !important;
+  }
+  .image_physician_construct img{
+    height: auto !important;
+  }
+  .health-banner{
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .physician_content p{
+    font-size: 16px;
+  }
+  .health-card{
+    margin-bottom: 0;
+  }
+  .collab-platform-card{
+    bottom: -20px;
+  }
+  .complete-suit-section{
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .solve_challenge h3{
+    font-size: 20px;
+  }
+  .latest-tweets-card{
+    padding: 30px;
+  }
+  .partner-list-display .partner-items{
+    gap: 20px;
+  }
+  .solve-it-item .item-title{
+    font-size: 16px;
+  }
+  .solve-it-item img{
+    max-width: 60px;
+  }
+  .tab-pane .contact-form-left{
+    padding: 50px 20px;
+  }
+  .tab-pane .contact-form-left .item h3{
+    font-size: 22px;
+  }
+  .tab-pane .forms_inner{
+    padding: 30px;
+  }
+  .forms_inner h3{
+    font-size: 22px;
+  }
+  .latest-news .latest-news-head{
+    font-size: 35px;
+  }
+  .about-banner-image-list .image-item .overlay-text{
+    font-size: 25px;
+  }
+  .about-banner-content .left-content .assist-text{
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .about-banner-content .left-content h3{
+    font-size: 25px;
+  }
+  .about-banner-content .left-content{
+    padding-right: 20px;
+  }
+  .about-banner-content .right-content p{
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .it-banner-content{
+    padding: 30px;
+  }
+  .it-banner-content h3{
+    line-height: 40px;
+  }
+  .footer {
+    padding: 40px 50px;
+  }
+  .data-heading{
+    font-size: 20px;
+  }
+  .data-num{
+    font-size: 30px;
+  }
+  .faq-accordions .accordion .accordion-header button{
+    font-size: 16px;
+    padding: 10px 15px;
+  }
+  .faq-accordions .accordion .accordion-header button::after{
+    width: 25px;
+    height: 25px;
+  }
+  .faq-accordions .accordion .accordion-body{
+    font-size: 16px;
+  }
+  .faq-header-img{
+    max-width: 400px;
+  }
+  .faq-accordions h4{
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  .partner-list-display .partner-items .item{
+    width: 190px;
+  }
+  .trust h3{
+    font-size: 20px;
+  }
+  .clinical-banner-content h2{
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .message img{
+    max-width: 400px;
+  }
+  .message .message-content h2{
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .enhance-content h2{
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 20px;
+  }
+}
