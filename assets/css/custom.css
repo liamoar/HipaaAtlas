@@ -185,6 +185,10 @@ header {
   display: none !important;
 }
 
+.cur{
+  cursor: pointer;
+}
+
 /* banner-section */
 
 .carousel-indicators li {

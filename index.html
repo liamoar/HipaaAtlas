@@ -39,9 +39,9 @@
           <img src="assets/images/user.png" alt="client" class="pe-2 img-fluid" />Client Portal
         </button>
       </div>
-      <div class="contact_us displays_center_align ms-3">
+      <div class="contact_us displays_center_align ms-3" onclick="redirectToContactUs()">
         <img src="assets/images/contact.png" class="img-fluid" alt="contact" />
-        <p class="ms-2">CONTACT US</p>
+        <p class="ms-2 cur">CONTACT US</p>
       </div>
     </div>
   </div>
@@ -202,7 +202,7 @@
   <div class="dashboard_part">
     <div class="headings_dash text-center">
       <h1 class="mb-0">CORE FEATURES</h1>
-      <p>HIPAA atlas DASHBOARD MANAGER</p>
+      <p>HIPaaAtlas DASHBOARD MANAGER</p>
       <span>That lets you focus on your business rather than worry about the
         technology.</span>
     </div>
@@ -313,7 +313,7 @@
     </div>
     <div class="transformation_modules">
       <div class="headings_dash text-center">
-        <p>HIPAA atlas EDI TRANSFORMATION MODULES</p>
+        <p>HipaaAtlas EDI TRANSFORMATION MODULES</p>
       </div>
       <div class="transformation_modules_content">
         <div class="transformation_modules_content_item">
@@ -505,7 +505,7 @@
     </div>
     <div class="key-capabilities">
       <div class="headings_dash text-center">
-        <p>HIPAA atlas KEY CAPABILITIES</p>
+        <p>HipaaAtlas KEY CAPABILITIES</p>
       </div>
       <div class="capabilities-list">
         <div class="capabilities-item">
@@ -638,8 +638,8 @@
     </div>
     <div class="why-us">
       <div class="headings_dash text-center">
-        <p>WHY HIPAA atlas?</p>
-        <span>WHY CHOOSE HIPAA atlas?</span>
+        <p>WHY HipaaAtlas?</p>
+        <span>WHY CHOOSE HipaaAtlas?</span>
       </div>
       <div class="quote-section">
 
@@ -977,7 +977,7 @@
       </button>
     </div>
     <div class="copyright">
-      <p class="ps-1">&copy; 2021 <b>Hipaaatlas.</b> All Right Reserved.</p>
+      <p class="ps-1">&copy; 2021 <b>HipaaAtlas.</b> All Right Reserved.</p>
     </div>
   </div>
   <div class="watermark_section">
@@ -1008,6 +1008,10 @@
     function topFunction() {
       document.body.scrollTop = 0;
       document.documentElement.scrollTop = 0;
+    }
+
+    function redirectToContactUs(){
+      window.location.href ='contact-us.html'
     }
   </script>
   <!-- Bootstrap core JavaScript
