@@ -1,0 +1,668 @@
+---
+layout: default
+title: HIPPA
+---
+
+ <div class="banner_section">
+    <div id="demo" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+        <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+        <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="assets/images/banner1.png" class="img-fluid" alt="banner_one" style="width: 100%" />
+        </div>
+        <div class="carousel-item">
+          <img src="assets/images/banner2.png" class="img-fluid" alt="banner_one" style="width: 100%" />
+        </div>
+        <div class="carousel-item">
+          <img src="assets/images/banner3.png" class="img-fluid" alt="banner_one" style="width: 100%" />
+        </div>
+      </div>
+    </div>
+</div>
+
+ <div class="dashboard_part">
+    <div class="headings_dash text-center">
+      <h1 class="mb-0">CORE FEATURES</h1>
+      <p>HIPaaAtlas DASHBOARD MANAGER</p>
+      <span>That lets you focus on your business rather than worry about the
+        technology.</span>
+    </div>
+    <div class="dash_contents">
+      <div class="row gx-0">
+        <div class="col-md-4 main_inner_dash_content">
+          <div class="inner_dash_content px-5 mx-4">
+            <div class="image_dasboard">
+              <img src="assets/images/claims.png" alt="claims-report-manager" />
+            </div>
+            <h2>Claims Report Manager</h2>
+            <p>
+              Our primary goal is developing a secure and safe world for poor
+              peoples in the world that meets the needs of humanities.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4 main_inner_dash_content">
+          <div class="inner_dash_content px-5 mx-4">
+            <div class="image_dasboard">
+              <img src="assets/images/membership.png" alt="claims-report-manager" />
+            </div>
+            <h2>Membership Report Manager</h2>
+            <p>
+              Our primary goal is developing a secure and safe world for poor
+              peoples in the world that meets the needs of humanities.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4 main_inner_dash_content">
+          <div class="inner_dash_content px-5 mx-4">
+            <div class="image_dasboard">
+              <img src="assets/images/payment.png" alt="claims-report-manager" />
+            </div>
+            <h2>Payment Report Manager</h2>
+            <p>
+              Our primary goal is developing a secure and safe world for poor
+              peoples in the world that meets the needs of humanities.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4 main_inner_dash_content">
+          <div class="inner_dash_content px-5 mx-4">
+            <div class="image_dasboard">
+              <img src="assets/images/encounter.png" alt="claims-report-manager" />
+            </div>
+            <h2>Encounter Data Manager</h2>
+            <p>
+              Our primary goal is developing a secure and safe world for poor
+              peoples in the world that meets the needs of humanities.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4 main_inner_dash_content">
+          <div class="inner_dash_content px-5 mx-4">
+            <div class="image_dasboard">
+              <img src="assets/images/eligibility.png" alt="claims-report-manager" />
+            </div>
+            <h2>Claim & Eligibility Inquiry Manager</h2>
+            <p>
+              Our primary goal is developing a secure and safe world for poor
+              peoples in the world that meets the needs of humanities.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4 main_inner_dash_content">
+          <div class="inner_dash_content px-5 mx-4">
+            <div class="image_dasboard">
+              <img src="assets/images/premiumpayment.png" alt="premium-payment" />
+            </div>
+            <h2>Premium Payment Report Manager</h2>
+            <p>
+              Our primary goal is developing a secure and safe world for poor
+              peoples in the world that meets the needs of humanities.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="banner_section dash_content_carousel">
+      <!-- Carousel -->
+      <div id="dash_carousel" class="carousel slide" data-bs-ride="carousel">
+        <!-- Indicators/dots -->
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#dash_carousel" data-bs-slide-to="0" class="active"></button>
+          <button type="button" data-bs-target="#dash_carousel" data-bs-slide-to="1"></button>
+          <button type="button" data-bs-target="#dash_carousel" data-bs-slide-to="2"></button>
+        </div>
+
+        <!-- The slideshow/carousel -->
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="assets/images/banner2.png" class="img-fluid" alt="banner_one" style="width: 100%" />
+          </div>
+          <div class="carousel-item">
+            <img src="assets/images/banner3.png" class="img-fluid" alt="banner_one" style="width: 100%" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="transformation_modules">
+      <div class="headings_dash text-center">
+        <p>HipaaAtlas EDI TRANSFORMATION MODULES</p>
+      </div>
+      <div class="transformation_modules_content">
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">270 Realtime & Batch Eligibility</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">837I, P, D Claims Management</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">276 Realtime & Batch Claim Status</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">835 Remittance Advice</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">278 Real time and Batch Pre Authorization</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">834 Enrollment Management - Medicare & Commercial</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">275 Info and Attachments</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">834 Full File Enrollment Compare</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">274 Provider Directory</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">270 Realtime & Batch Eligibility</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">837 Encounter Management</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">Encounters Management</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">TA1,999, 277CA</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">HPS Enrollment Integration</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">Availity Integration</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+        <div class="transformation_modules_content_item">
+          <a href="#" class="clickable-link"></a>
+          <div class="transformation_modules_content_item--img">
+            <img src="./assets/images/transform-module-img.png" alt="Transformation Module Image">
+          </div>
+          <p class="transformation_modules_content_item--text">NCPDP, CNCPDP, CCLF, CCDA, CCDI Other formats CLF, CCDA,
+            CCDI Other formats</p>
+          <div class="icon">
+            <i class="fas fa-chevron-right"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="banner_section dash_content_carousel">
+      <!-- Carousel -->
+      <div id="dash_carousel_2" class="carousel slide" data-bs-ride="carousel">
+        <!-- Indicators/dots -->
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#dash_carousel_2" data-bs-slide-to="0" class="active"></button>
+          <button type="button" data-bs-target="#dash_carousel_2" data-bs-slide-to="1"></button>
+          <button type="button" data-bs-target="#dash_carousel_2" data-bs-slide-to="2"></button>
+        </div>
+
+        <!-- The slideshow/carousel -->
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="assets/images/banner.png" class="img-fluid" alt="banner_one" style="width: 100%" />
+          </div>
+          <div class="carousel-item">
+            <img src="assets/images/banner.png" class="img-fluid" alt="banner_one" style="width: 100%" />
+          </div>
+          <div class="carousel-item">
+            <img src="assets/images/banner.png" class="img-fluid" alt="banner_one" style="width: 100%" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="key-capabilities">
+      <div class="headings_dash text-center">
+        <p>HipaaAtlas KEY CAPABILITIES</p>
+      </div>
+      <div class="capabilities-list">
+        <div class="capabilities-item">
+          <img src="./assets/images/key-check.svg" class="check-svg" alt="Key Svg">
+          <p><strong>Trading Partner Management: </strong>Simplified Trading Partner onboarding and configuration.
+            Schedule file pickups and file hold for monthly and daily files. Auto scaling based on trading partner
+            volumes. Trading partner self service setup</p>
+        </div>
+        <div class="capabilities-item">
+          <img src="./assets/images/key-check.svg" class="check-svg" alt="Key Svg">
+          <p><strong>Companion Guide setup for L1/L2 Validations: </strong>Import or setup companion guide based on
+            trading partner, line of business or transaction types</p>
+        </div>
+        <div class="capabilities-item">
+          <img src="./assets/images/key-check.svg" class="check-svg" alt="Key Svg">
+          <p><strong>Configure EDI validation rules: </strong>Configure validation and compare rules based on trading
+            partner, line of business, state, or transaction types. Define rules templates and import and export the
+            rules. Ignore rules as warnings or errors. Add API's to rules to call enterprise validation services like
+            member match, npi match and others. Configure transactions to hold based on rules</p>
+        </div>
+        <div class="capabilities-item">
+          <img src="./assets/images/key-check.svg" class="check-svg" alt="Key Svg">
+          <p><strong>Auto Correct and auto learn rules and data: </strong>Setup auto data corrections and rules based on
+            incoming data conditions.</p>
+        </div>
+        <div class="capabilities-item">
+          <img src="./assets/images/key-check.svg" class="check-svg" alt="Key Svg">
+          <p><strong>Auto reconcile rules: </strong>Setup reconciliation setups and APIs based on transactions. Example
+            - Claims payments reconciled to claims data. Compare Enrollments.to membership data api, Memebr match api
+          </p>
+        </div>
+        <div class="capabilities-item">
+          <img src="./assets/images/key-check.svg" class="check-svg" alt="Key Svg">
+          <p><strong>API driven architecture to integrate to QNXT,Facets, Healthedge and other systems: </strong>REST
+            JSON API, XML or other interfaces available out of box to integrate to your claims or enrollments systems.
+          </p>
+        </div>
+        <div class="capabilities-item">
+          <img src="./assets/images/key-check.svg" class="check-svg" alt="Key Svg">
+          <p><strong>Autoscale Real time transactions: </strong>Auto scale real time transactions using services. Invoke
+            QNXT.Facets, Healthedge API's for real time transactions data</p>
+        </div>
+        <div class="capabilities-item">
+          <img src="./assets/images/key-check.svg" class="check-svg" alt="Key Svg">
+          <p><strong>Work-queues for manual corrections: </strong>Out of box Standard and customized work-queues for the
+            business user to view and update data.</p>
+        </div>
+        <div class="capabilities-item">
+          <img src="./assets/images/key-check.svg" class="check-svg" alt="Key Svg">
+          <p><strong>Business Reporting Dashboards: </strong>Simplified dashboard to check the validation status,
+            trading partner performance, provider performance</p>
+        </div>
+        <div class="capabilities-item">
+          <img src="./assets/images/key-check.svg" class="check-svg" alt="Key Svg">
+          <p><strong>Trading partners & Provider Self service: </strong>Simplified dashboard to check the validation
+            status, trading partner performance, provider performance</p>
+        </div>
+      </div>
+    </div>
+    <div class="data-display">
+      <div class="data-item">
+        <p class="data-heading">Users</p>
+        <p class="data-num">1,625</p>
+      </div>
+      <div class="data-item">
+        <p class="data-heading">Enrollments</p>
+        <p class="data-num">624,417</p>
+      </div>
+      <div class="data-item">
+        <p class="data-heading">Claims</p>
+        <p class="data-num">293,123,903</p>
+      </div>
+      <div class="data-item">
+        <p class="data-heading">Providers</p>
+        <p class="data-num">507</p>
+      </div>
+    </div>
+    <div class="price-plans">
+      <div class="headings_dash text-center">
+        <h1 class="mb-0">PRICING PLAN</h1>
+        <p>COMPETITIVE PRICING PLAN</p>
+        <span>We provide different packages according to your business needs and solution.</span>
+      </div>
+      <div class="price-plans-display">
+        <div class="price-plan-item">
+          <div class="plan-img">
+            <img src="./assets/images/premise.svg" class="img-fluid" alt="Price Plan">
+          </div>
+          <p class="price-head">On Premise</p>
+          <ul>
+            <li>Ordering System</li>
+            <li>Mobile app (Android and iOS)</li>
+            <li>Delivery system</li>
+            <li>Efficient Route Planning</li>
+          </ul>
+          <button class="btn secondary-btn">Get Started</button>
+        </div>
+        <div class="price-plan-item active">
+          <div class="offer-tag">
+            <p>15% off</p>
+          </div>
+          <div class="plan-img">
+            <img src="./assets/images/oncloud.svg" class="img-fluid" alt="Price Plan">
+          </div>
+          <p class="price-head">On Cloud</p>
+          <ul>
+            <li>Ordering System</li>
+            <li>Mobile app (Android and iOS)</li>
+            <li>Delivery system</li>
+            <li>Efficient Route Planning</li>
+          </ul>
+          <button class="btn primary-btn">Get Started</button>
+        </div>
+        <div class="price-plan-item">
+          <div class="plan-img">
+            <img src="./assets/images/payasyougo.svg" class="img-fluid" alt="Price Plan">
+          </div>
+          <p class="price-head">Pay as you go</p>
+          <ul>
+            <li>Ordering System</li>
+            <li>Mobile app (Android and iOS)</li>
+            <li>Delivery system</li>
+            <li>Efficient Route Planning</li>
+          </ul>
+          <button class="btn secondary-btn">Get Started</button>
+        </div>
+
+      </div>
+      <a href="#" class="more-plan">More Pricing Plan</a>
+    </div>
+    <div class="why-us">
+      <div class="headings_dash text-center">
+        <p>WHY HipaaAtlas?</p>
+        <span>WHY CHOOSE HipaaAtlas?</span>
+      </div>
+      <div class="quote-section">
+
+        <!-- Carousel -->
+        <div id="why-us" class="carousel slide" data-bs-ride="carousel">
+          <!-- Indicators/dots -->
+          <div class="carousel-indicators quote-indicators">
+            <button type="button" data-bs-target="#why-us" data-bs-slide-to="0" class="active"></button>
+            <button type="button" data-bs-target="#why-us" data-bs-slide-to="1"></button>
+            <button type="button" data-bs-target="#why-us" data-bs-slide-to="2"></button>
+          </div>
+
+          <!-- The slideshow/carousel -->
+          <div class="carousel-inner">
+            <div class="carousel-item quote-carousel active">
+              <div class="quote-icon">
+                <img src="./assets/images/quote-icon.svg" class="img-fluid" alt="Quote">
+              </div>
+              <div class="quote-text">
+                Omg.... This being released like a year ago, would be great (for us). Instead, we are hitting a lot of
+                walls trying to use Quartz to replace an old in-house job scheduler
+                <br><span class="quote-from">A reddit user</span> - Developer
+              </div>
+              <div class="quote-icon quote-right">
+                <img src="./assets/images/quote-icon.svg" class="img-fluid" alt="Quote">
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="quote-icon">
+                <img src="./assets/images/quote-icon.svg" class="img-fluid" alt="Quote">
+              </div>
+              <div class="quote-text">
+                Omg.... This being released like a year ago, would be great (for us). Instead, we are hitting a lot of
+                walls trying to use Quartz to replace an old in-house job scheduler
+                <br><span class="quote-from">A reddit user</span> - Developer
+              </div>
+              <div class="quote-icon quote-right">
+                <img src="./assets/images/quote-icon.svg" class="img-fluid" alt="Quote">
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="quote-icon">
+                <img src="./assets/images/quote-icon.svg" class="img-fluid" alt="Quote">
+              </div>
+              <div class="quote-text">
+                Omg.... This being released like a year ago, would be great (for us). Instead, we are hitting a lot of
+                walls trying to use Quartz to replace an old in-house job scheduler
+                <br><span class="quote-from">A reddit user</span> - Developer
+              </div>
+              <div class="quote-icon quote-right">
+                <img src="./assets/images/quote-icon.svg" class="img-fluid" alt="Quote">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="why-us-listing">
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="why-us-item">
+              <div class="image">
+                <img src="./assets/images/simple.svg" class="img-fluid" alt="Why Us item image">
+              </div>
+              <p class="title">Simple</p>
+              <p class="description">Easy to set up, easy to use. You could be up and running as soon as your license is activated. An easy alternative for solutions that require extensive configuration.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="why-us-item">
+              <div class="image">
+                <img src="./assets/images/persistent.svg" class="img-fluid" alt="Why Us item image">
+              </div>
+              <p class="title">Persistent</p>
+              <p class="description">Easy to set up, easy to use. You could be up and running as soon as your license is activated. An easy alternative for solutions that require extensive configuration.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="why-us-item">
+              <div class="image">
+                <img src="./assets/images/transparent.svg" class="img-fluid" alt="Why Us item image">
+              </div>
+              <p class="title">Transparent</p>
+              <p class="description">Thanks to the dashboard and built-in web interface, you have an overview of all your data and your background EDI jobs and observe the state of each data file throughout various stages of the data processing. Out of the box popular decision support reports with zero development and/or configuration.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="why-us-item">
+              <div class="image">
+                <img src="./assets/images/efficient.svg" class="img-fluid" alt="Why Us item image">
+              </div>
+              <p class="title">Efficient</p>
+              <p class="description">Easy to set up, easy to use. You could be up and running as soon as your license is activated. An easy alternative for solutions that require extensive configuration.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="why-us-item">
+              <div class="image">
+                <img src="./assets/images/reliable.svg" class="img-fluid" alt="Why Us item image">
+              </div>
+              <p class="title">Reliable</p>
+              <p class="description">Thanks to the dashboard and built-in web interface, you have an overview of all your data and your background EDI jobs and observe the state of each data file throughout various stages of the data processing. Out of the box popular decision support reports with zero development and/or configuration.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="why-us-item">
+              <div class="image">
+                <img src="./assets/images/extensible.svg" class="img-fluid" alt="Why Us item image">
+              </div>
+              <p class="title">Extensible</p>
+              <p class="description">Thanks to the dashboard and built-in web interface, you have an overview of all your data and your background EDI jobs and observe the state of each data file throughout various stages of the data processing. Out of the box popular decision support reports with zero development and/or configuration.</p>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+    <div class="partners">
+      <div class="headings_dash text-center partner-heading">
+        <h1 class="mb-0">PARTNER'S</h1>
+        <p>OUR CLIENTS</p>
+        <span>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
+          blind texts. Separated they live in</span>
+      </div>
+      <div class="partners-list">
+        <a href="#">
+          <img src="./assets/images/microsoft.png" class="partner-list-img" alt="Partner List Image">
+        </a>
+        <a href="#">
+          <img src="./assets/images/andriod.png" class="partner-list-img" alt="Partner List Image">
+        </a>
+        <a href="#">
+          <img src="./assets/images/java.png" class="partner-list-img" alt="Partner List Image">
+        </a>
+        <a href="#">
+          <img src="./assets/images/google.png" class="partner-list-img" alt="Partner List Image">
+        </a>
+        <a href="#">
+          <img src="./assets/images/adobe.png" class="partner-list-img" alt="Partner List Image">
+        </a>
+      </div>
+    </div>
+    <div class="form_contents">
+      <div class="row gx-0 gx-0">
+        <div class="col-md-4">
+          <img src="assets/images/formsbanner.png" class="img-fluid forms_banner_image" alt="forms-picture" />
+        </div>
+        <div class="col-md-8 displays_center_align">
+          <div class="forms_inner w-100">
+            <h3>Request Demo</h3>
+            <form>
+              <div class="mb-3">
+                <label class="form-label">Name*</label>
+                <input type="text" class="form-control" placeholder="Enter Name" />
+              </div>
+              <div class="mb-3">
+                <label class="form-label">Email*</label>
+                <input type="email" class="form-control" placeholder="Enter Email" />
+              </div>
+              <div class="mb-3">
+                <label class="form-label">Company*</label>
+                <input type="text" class="form-control" placeholder="Company" />
+              </div>
+              <div class="mb-3">
+                <label class="form-label">Phone Number*</label>
+                <div class="d-flex numbers_input">
+                  <div class="numbers_inner">
+                    <input type="number" class="form-control" />
+                    <p class="text-center">###</p>
+                  </div>
+                  <span class="px-3"> - </span>
+                  <div class="numbers_inner">
+                    <input type="number" class="form-control" />
+                    <p class="text-center">###</p>
+                  </div>
+                  <span class="px-3"> - </span>
+                  <div class="numbers_inner">
+                    <input type="number" class="form-control" />
+                    <p class="text-center">###</p>
+                  </div>
+                </div>
+              </div>
+              <div class="mb-4 d-grid">
+                <label class="form-label">Message*</label>
+                <textarea row gx-0s="3" cols="30"> </textarea>
+              </div>
+              <button class="displays_center_align py-3 px-5">Submit</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="email_subscribe mb-5">
+      <div class="image_subscribe">
+        <img src="assets/images/form_banner.png" alt="subscribeimage" class="img-fluid w-100" />
+      </div>
+      <div class="input_subscribe">
+        <form>
+          <div class="inner_subscribe">
+            <div class="mb-4 mt-4 position-relative">
+              <input type="email" class="form-control" placeholder="Enter your email address" />
+              <button class="displays_center_align py-2 px-5">
+                Subscribe
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+ </div>
