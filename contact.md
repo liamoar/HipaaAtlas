@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-permalink: /contact/
+permalink: /contact
 ---
 <div class="trust">
     <h3><b>Looking for more information? <span>We’re here to help.</span></b></h3>
