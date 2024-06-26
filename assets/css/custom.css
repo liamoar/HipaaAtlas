@@ -817,6 +817,7 @@ header {
   background-color: #005B98;
   box-shadow: 0px 9px 26px #0000001A;
   color: #fff;
+  transition: background-color 0.4s, box-shadow 0.4s, color 0.4s;
 }
 
 .price-plan-item.active .price-head {
@@ -824,6 +825,20 @@ header {
 }
 
 .price-plan-item.active ul {
+  color: #fff;
+}
+.price-plan-item:hover{
+  background-color: #005B98;
+  box-shadow: 0px 9px 26px #0000001A;
+  color: #fff;
+  transition: 0.4s;
+}
+
+.price-plan-item:hover .price-head{
+  color: #fff;
+}
+
+.price-plan-item:hover ul{
   color: #fff;
 }
 
